@@ -1,0 +1,15 @@
+C:\Users\matia\Desktop\Skole\H1\Terningen\bin\Debug\net7.0\Terningen.exe
+C:\Users\matia\Desktop\Skole\H1\Terningen\bin\Debug\net7.0\Terningen.deps.json
+C:\Users\matia\Desktop\Skole\H1\Terningen\bin\Debug\net7.0\Terningen.runtimeconfig.json
+C:\Users\matia\Desktop\Skole\H1\Terningen\bin\Debug\net7.0\Terningen.dll
+C:\Users\matia\Desktop\Skole\H1\Terningen\bin\Debug\net7.0\Terningen.pdb
+C:\Users\matia\Desktop\Skole\H1\Terningen\obj\Debug\net7.0\Terningen.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Skole\H1\Terningen\obj\Debug\net7.0\Terningen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\Desktop\Skole\H1\Terningen\obj\Debug\net7.0\Terningen.AssemblyInfoInputs.cache
+C:\Users\matia\Desktop\Skole\H1\Terningen\obj\Debug\net7.0\Terningen.AssemblyInfo.cs
+C:\Users\matia\Desktop\Skole\H1\Terningen\obj\Debug\net7.0\Terningen.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Skole\H1\Terningen\obj\Debug\net7.0\Terningen.dll
+C:\Users\matia\Desktop\Skole\H1\Terningen\obj\Debug\net7.0\refint\Terningen.dll
+C:\Users\matia\Desktop\Skole\H1\Terningen\obj\Debug\net7.0\Terningen.pdb
+C:\Users\matia\Desktop\Skole\H1\Terningen\obj\Debug\net7.0\Terningen.genruntimeconfig.cache
+C:\Users\matia\Desktop\Skole\H1\Terningen\obj\Debug\net7.0\ref\Terningen.dll

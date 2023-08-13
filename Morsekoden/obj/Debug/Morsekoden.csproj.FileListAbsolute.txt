@@ -1,0 +1,8 @@
+D:\H1\Morsekoden\bin\Debug\Morsekoden.exe.config
+D:\H1\Morsekoden\bin\Debug\Morsekoden.exe
+D:\H1\Morsekoden\bin\Debug\Morsekoden.pdb
+D:\H1\Morsekoden\obj\Debug\Morsekoden.csproj.AssemblyReference.cache
+D:\H1\Morsekoden\obj\Debug\Morsekoden.csproj.SuggestedBindingRedirects.cache
+D:\H1\Morsekoden\obj\Debug\Morsekoden.csproj.CoreCompileInputs.cache
+D:\H1\Morsekoden\obj\Debug\Morsekoden.exe
+D:\H1\Morsekoden\obj\Debug\Morsekoden.pdb
